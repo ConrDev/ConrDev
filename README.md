@@ -18,7 +18,7 @@ I'm a 17 Year old developer from The Netherlands
 
 <h2>
   <a href="https://github.com/SKELIC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKELIC&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKELIC&count_private=true&theme=dark">
   </a>
   <br>
 </h2>
