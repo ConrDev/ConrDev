@@ -1,7 +1,7 @@
 ### Hi there, welcome to my github! 👋
 I'm a 17 Year old developer from The Netherlands
 
-<h3 align="center">
+<h3>
   <a href="https://discord.com/users/228547365848612864" alt="Discord">
       <img src="https://img.shields.io/badge/DISCORD-SKELIC%235899-7289da"/>
   </a>
