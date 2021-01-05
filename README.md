@@ -1,4 +1,23 @@
 ### Hi there welcome to my github 👋
+I'm a <script>
+function getAge(dateString) {
+  var now = new Date();
+
+  var yearNow = now.getYear();
+
+  var dob = new Date(dateString.substring(6,10),
+                     dateString.substring(0,2)-1,                   
+                     dateString.substring(3,5)                  
+                     );
+
+  var yearDob = dob.getYear();
+
+
+  yearAge = yearNow - yearDob;
+}
+
+getAge('05/13/2003');
+</script> Year old developer from The Netherland
 
 <!--
 **SKELIC/SKELIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
