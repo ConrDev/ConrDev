@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there welcome to my github 👋
 
 <!--
 **SKELIC/SKELIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">
+  <a href="https://discord.com/users/228547365848612864" alt="Discord">
+      <img src="https://img.shields.io/badge/DISCORD-SKELIC%235899-7289da"/>
+  </a>
+</h3>
+
+<hr>
+
+<h2 align="center">
+  <a href="https://github.com/SKELIC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKELIC&count_private=true">
+  </a>
+  <br>
+</h2>
