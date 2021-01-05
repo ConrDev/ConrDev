@@ -7,20 +7,16 @@ I'm a 17 Year old developer from The Netherlands
   </a>
 </h3>
 
----
+### :space_invader: Most Repo Code language's 
 
-<h3 align="center> :space_invader: Most Repo Code language's</h3>
-
-<h2 align="center">
+<h2>
   <a href="https://github.com/SKELIC">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skelic&layout=compact&hide_title=1&card_width=300">
   </a>
   <br>
 </h2>
 
----
-
-<h2 align="center">
+<h2>
   <a href="https://github.com/SKELIC">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKELIC&count_private=true">
   </a>
