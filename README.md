@@ -3,7 +3,7 @@ I'm a 18 Year old developer from The Netherlands
 
 <h3>
   <a href="https://discord.com/users/228547365848612864" alt="Discord">
-      <img src="https://img.shields.io/badge/DISCORD-ConrDev%235899-7289da"/>
+      <img src="https://img.shields.io/badge/DISCORD-SKELIC%235899-7289da"/>
   </a>
 </h3>
 
