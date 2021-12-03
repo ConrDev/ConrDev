@@ -3,22 +3,22 @@ I'm a 18 Year old developer from The Netherlands
 
 <h3>
   <a href="https://discord.com/users/228547365848612864" alt="Discord">
-      <img src="https://img.shields.io/badge/DISCORD-SKELIC%235899-7289da"/>
+      <img src="https://img.shields.io/badge/DISCORD-ConrDev%235899-7289da"/>
   </a>
 </h3>
 
 ### :space_invader: Most Repo Code language's 
 
 <h2>
-  <a href="https://github.com/SKELIC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skelic&layout=compact&hide_title=1&card_width=300&theme=dark">
+  <a href="https://github.com/ConrDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConrDev&layout=compact&hide_title=1&card_width=300&theme=dark">
   </a>
   <br>
 </h2>
 
 <h2>
-  <a href="https://github.com/SKELIC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SKELIC&count_private=true&theme=dark">
+  <a href="https://github.com/ConrDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConrDev&count_private=true&theme=dark">
   </a>
   <br>
 </h2>
