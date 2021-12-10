@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/master/readme_header.png "Header")
+![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/master/1500x500.jpg "Header")
 
 ### Hey there! 👋
 My name is Conner van TIlburg and I'm a developer from The Netherlands
