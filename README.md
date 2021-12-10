@@ -1,9 +1,9 @@
-[![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/ConrDev/readme_header.png "Header")]
+![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/master/readme_header.png "Header")
 
 ### Hey there! 👋
 My name is Conner van TIlburg and I'm a developer from The Netherlands
 
-[![Linkedin Badge](https://img.shields.io/badge/-Conner%20van%20Tilburg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)](https://www.linkedin.com/in/conner-van-tilburg-22a7a1195//)
+[![Linkedin Badge](https://img.shields.io/badge/-Conner%20van%20Tilburg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)](https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)
 [![Discord Badge](https://img.shields.io/badge/-SKELIC%235899-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/228547365848612864/)](https://discord.com/users/228547365848612864/)
 
 ## 👨‍💻 language's i've worked with
