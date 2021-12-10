@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/ConrDev/readme_header.png "Header")]
 
 ### Hey there! 👋
 My name is Conner van TIlburg and I'm a developer from The Netherlands
