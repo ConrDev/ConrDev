@@ -69,19 +69,5 @@ My name is Conner van TIlburg and I'm a developer from The Netherlands
 
 ---
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ConrDev)](https://github.com/ConrDev/github-profile-trophy)
 
----
-<!-- Actual text -->
-[![Twitter][1.2]][1][![LinkedIn][2.2]][2]
-
-<!-- Icons -->
-
-[1.2]:https://img.icons8.com/color/48/000000/twitter--v1.png 
-[2.2]: https://img.icons8.com/fluency/48/000000/instagram-new.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/ConrDev
-[2]: https://instagram.com/conr.jpg
