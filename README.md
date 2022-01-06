@@ -22,6 +22,7 @@ My name is Conner van TIlburg and I'm a developer from The Netherlands
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&logo=electron&logoColor=46838e&colorB=46838e&label=&color=2f3241)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.Js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=5382a1&logo=Java&logoColor=f89820&label=)
 
 
 ## &#x1f4c8; GitHub Stats
