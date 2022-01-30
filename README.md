@@ -41,11 +41,11 @@ My name is Conner van TIlburg and I'm a developer from The Netherlands
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/rens4000">
+      <a href="https://github.com/nietrenswens">
         <img src="https://avatars2.githubusercontent.com/u/6216905" width="100px;" alt="Ir1d"/>
       </a>
       <br />
-      <a href="https://github.com/rens4000">Wens</a>
+      <a href="https://github.com/nietrenswens">Wens</a>
     </td>
     <td align="center">
       <a href="https://github.com/calvinhofman">
