@@ -1,7 +1,10 @@
 ![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/master/1500x500.jpg "Header")
 
 ### Hey there! 👋
-My name is Conner van TIlburg and I'm a developer from The Netherlands
+My name is Conner van Tilburg and I'm a developer from The Netherlands
+I do some frontend with Tailwind CSS and some PHP backend
+
+I also do some Web designing or Graphic designing
 
 [![Linkedin Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Conner%20van%20Tilburg&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)](https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)
 [![Discord Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SKELIC%235899&color=7289da&logo=Discord&logoColor=white&link=https://discord.com/users/228547365848612864/)](https://discord.com/users/228547365848612864/)
