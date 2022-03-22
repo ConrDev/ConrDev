@@ -6,6 +6,7 @@ I do some frontend with Tailwind CSS and some PHP backend
 
 I also do some Web designing or Graphic designing
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/conrdev)
 [![Linkedin Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Conner%20van%20Tilburg&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)](https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)
 [![Discord Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SKELIC%235899&color=7289da&logo=Discord&logoColor=white&link=https://discord.com/users/228547365848612864/)](https://discord.com/users/228547365848612864/)
 [![Twitter Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=@ConrDev&color=1c99ef&logo=Twitter&logoColor=white&link=https://twitter.com/conrdev)](https://twitter.com/conrdev)
