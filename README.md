@@ -21,6 +21,7 @@ I also do some Web designing or Graphic designing
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&logo=laravel&logoColor=white&label=&color=f05340)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&logo=tailwindcss&logoColor=37bdf7&label=&color=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=React.Js/Native&logo=react&logoColor=333&label=&color=61dbfb)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&logo=typescript&logoColor=007acc&label=&color=fff)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.Js&logo=vue.js&logoColor=white&label=&color=41b883)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=NEXT.Js&logo=next.js&logoColor=333&label=&color=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&logo=electron&logoColor=46838e&colorB=46838e&label=&color=2f3241)
