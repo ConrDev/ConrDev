@@ -67,13 +67,6 @@ I also do some Web designing or Graphic designing
       <br />
       <a href="https://github.com/MarcvdMade">Marc</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/SANDR7">
-        <img src="https://avatars2.githubusercontent.com/u/47674845" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/SANDR7">Sander van Ast</a>
-    </td>
   </tr>
 </table>
 
