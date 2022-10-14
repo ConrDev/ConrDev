@@ -2,7 +2,7 @@
 
 ### Hey there! 👋
 My name is Conner van Tilburg and I'm a developer from The Netherlands
-I do some frontend with Tailwind CSS and some PHP backend
+I do backend work with laravel and some frontend with Tailwind CSS
 
 I also do some Web designing or Graphic designing
 
