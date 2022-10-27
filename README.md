@@ -55,7 +55,7 @@ I also do some Web designing or Graphic designing
     </td>
     <td align="center">
       <a href="https://github.com/calvinhofman">
-        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/72041fbe-d0d8-42a5-84f3-2127a57ef44a-profile_image-70x70.png" width="100px;" alt="Ir1d"/>
+        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/72041fbe-d0d8-42a5-84f3-2127a57ef44a-profile_image-300x300.png" width="100px;" alt="Ir1d"/>
       </a>
       <br />
       <a href="https://github.com/calvinhofman">Calvin</a>
