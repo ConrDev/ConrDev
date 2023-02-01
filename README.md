@@ -40,36 +40,6 @@ I also do some Web designing or Graphic designing
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConrDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-
-### :sparkles: Friends i work with
-
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nietrenswens">
-        <img src="https://avatars2.githubusercontent.com/u/6216905" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/nietrenswens">Wens</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/calvinhofman">
-        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/72041fbe-d0d8-42a5-84f3-2127a57ef44a-profile_image-300x300.png" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/calvinhofman">Calvin</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MarcvdMade">
-        <img src="https://avatars2.githubusercontent.com/u/55003488" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/MarcvdMade">Marc</a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ConrDev)](https://github.com/ConrDev/github-profile-trophy)
