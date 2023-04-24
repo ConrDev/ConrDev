@@ -6,7 +6,7 @@ I do backend work with laravel and some frontend with Tailwind CSS
 
 I also do some Web designing or Graphic designing
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/conrdev)
+## Follow me!
 [![Linkedin Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Conner%20van%20Tilburg&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)](https://www.linkedin.com/in/conner-van-tilburg-22a7a1195/)
 [![Discord Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=SKELIC%235899&color=7289da&logo=Discord&logoColor=white&link=https://discord.com/users/228547365848612864/)](https://discord.com/users/228547365848612864/)
 [![Twitter Badge](https://img.shields.io/static/v1?style=for-the-badge&label=&message=@ConrDev&color=1c99ef&logo=Twitter&logoColor=white&link=https://twitter.com/conrdev)](https://twitter.com/conrdev)
@@ -44,3 +44,6 @@ I also do some Web designing or Graphic designing
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ConrDev)](https://github.com/ConrDev/github-profile-trophy)
 
+## Support me!
+<a href='https://ko-fi.com/conrdev' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeabeer.com/ConrDev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ConrDev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
