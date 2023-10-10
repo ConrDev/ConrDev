@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/ConrDev/ConrDev/master/1500x500.jpg "Header")
 
 ### Hey there! 👋
-My name is Conner van Tilburg and I'm a developer from The Netherlands
+My name is Conner and I'm a developer from The Netherlands
 I do backend work with laravel and some frontend with Tailwind CSS
 
 I also do some Web designing or Graphic designing
@@ -37,7 +37,7 @@ I also do some Web designing or Graphic designing
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConrDev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ConrDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConrDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ConrDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ConrDev's GitHub Stats" />
 </a>
 
 ---
