@@ -19,6 +19,7 @@ I also do some Web designing or Graphic designing
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Javascript&logo=javascript&logoColor=333&label=&color=f0db4f)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&logo=php&logoColor=white&label=&color=6c78af)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&logo=laravel&logoColor=white&label=&color=f05340)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&logo=livewire&logoColor=white&label=&color=FB70A9)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Inertia&logo=inertia&logoColor=white&label=&color=9553E9)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&logo=tailwindcss&logoColor=37bdf7&label=&color=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=React.Js/Native&logo=react&logoColor=333&label=&color=61dbfb)
