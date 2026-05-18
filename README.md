@@ -38,7 +38,3 @@ I also do some Web designing or Graphic designing
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ConrDev)](https://github.com/ConrDev/github-profile-trophy)
-
-## Support me!
-<a href='https://ko-fi.com/conrdev' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href="https://www.buymeabeer.com/ConrDev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ConrDev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
